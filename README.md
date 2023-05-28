@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="72nd28d.gif"  />
+<img align="right" height="150" src="7nd28d.gif"  />
 
 ###
 
